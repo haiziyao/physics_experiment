@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/data/frame1.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/data/frame2.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/data/frame3.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/raw/mydata/frame1.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/raw/mydata/frame2.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/raw/mydata/frame3.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/raw/template/frame1.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/raw/template/frame2.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B317/raw/template/frame3.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B320/data/form2.CSV" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/experiment_py/B320/data/form3.CSV" charset="GBK" />
+  </component>
+</project>
